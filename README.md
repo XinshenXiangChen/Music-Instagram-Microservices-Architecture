@@ -1,2 +1,5 @@
 # Music-Instagram-Microservices-Architecture
-An instagram like website focused on microservices architecture and kubernetes
+An instagram like website for music focused on microservices architecture and kubernetes
+
+
+Aka Music brainrot
